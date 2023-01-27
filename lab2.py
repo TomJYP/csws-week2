@@ -4,5 +4,5 @@ locations.sort(reverse=True)
 print(locations)
 """
 cities = ["Tokyo", "Kyoto", "Osaka", "Fukouka", "Hiroshima"]
-len(cities)
+cities.pop(1)
 print(cities)
